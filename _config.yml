@@ -20,7 +20,7 @@
 
 title: Mateus Brandão Teixeira
 email: mateus.brandaoteixeira@gmail.com
-baseurl: "/resume" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mateusbrandaot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: mateus-brandão-teixeira-1a801b180
 github_username:  mateusbrandaot
