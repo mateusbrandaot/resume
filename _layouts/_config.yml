@@ -1,6 +1,9 @@
 # _config.yml
 
-# Adicione a seguinte entrada ao arquivo _config.yml
-theme: jekyll-theme-example
+# Configuração do tema
+theme: jekyll-theme-jekyll-now
 
-# Isso fará com que o Jekyll use o tema jekyll-theme-example
+# Configurações adicionais
+title: Currículo
+email: mateus.brandaoteixeira@gmail.com
+description: Currículo
