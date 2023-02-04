@@ -45,5 +45,5 @@ programas
 
 
 ## Contato
-- E-mail: [Mateus.brandaoteixeira@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/mateus-brand%C3%A3o-teixeira-1a801b180/]
+- E-mail: Mateus.brandaoteixeira@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mateus-brand%C3%A3o-teixeira-1a801b180/
